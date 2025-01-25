@@ -1,2 +1,2 @@
 # Coloray
-Vivian, Yishi, Yundi
+Vivian, Yishi, Yundi, Boyan
